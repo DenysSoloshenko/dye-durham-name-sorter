@@ -1,0 +1,6 @@
+/.bundle/
+/coverage/
+/vendor/bundle/
+/sorted-names-list.txt
+*.gem
+
